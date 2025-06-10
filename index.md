@@ -1,3 +1,3 @@
 ---
-title: MY FIRST WEBPAGE 
+title: MY HOME PAGE 
 ---
